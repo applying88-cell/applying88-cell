@@ -1,97 +1,147 @@
+<div align="center">
+
+<img src="./assets/banner.svg" width="100%" alt="ANOLA Banner">
+
 # ANOLA
 
 ### SOFTWARE DEVELOPER
 
-`Building ideas into real software.`
+`CODE` · `CREATE` · `EVOLVE`
+
+Building ideas into clean, useful software.
+
+</div>
 
 ---
 
-## ABOUT
+## `01` — ABOUT
 
-I’m a developer focused on building clean, practical, and modern digital experiences.
+I’m a developer who enjoys turning ideas into real digital products.
 
-My journey started with the fundamentals of web development and continues toward backend engineering and full-stack development.
+My focus is on **web development, backend systems, databases, and modern software architecture**.
 
-I enjoy learning by building — turning concepts into projects, solving problems, and improving with every line of code.
+I learn by building — experimenting with new technologies, solving problems, and turning every project into a new opportunity to improve.
 
----
-
-## WHAT I WORK WITH
-
-**Frontend**
-HTML · CSS · JavaScript · Tailwind CSS
-
-**Backend**
-Node.js · Express.js · REST APIs
-
-**Database**
-MySQL · SQL
-
-**Tools**
-Git · GitHub · VS Code
+Currently growing from **frontend development toward full-stack engineering**.
 
 ---
 
-## CURRENTLY LEARNING
+## `02` — TECH STACK
+
+<div align="center">
+
+### FRONTEND
+
+`HTML` · `CSS` · `JavaScript` · `Tailwind CSS`
+
+### BACKEND
+
+`Node.js` · `Express.js` · `REST API`
+
+### DATABASE
+
+`MySQL` · `SQL`
+
+### TOOLS
+
+`Git` · `GitHub` · `VS Code`
+
+</div>
+
+---
+
+## `03` — CURRENT FOCUS
 
 ```text
-JavaScript
-    ↓
-Node.js
-    ↓
-Express.js
-    ↓
-MySQL
-    ↓
+WEB DEVELOPMENT
+      ↓
+JAVASCRIPT
+      ↓
+NODE.JS + EXPRESS
+      ↓
+DATABASES
+      ↓
 REST APIs
-    ↓
-Authentication & JWT
-    ↓
-Full-Stack Development
+      ↓
+AUTHENTICATION + JWT
+      ↓
+FULL-STACK DEVELOPMENT
 ```
 
 ---
 
-## SELECTED WORK
+## `04` — SELECTED WORK
 
-### 01 — SCHOOL MANAGEMENT SYSTEM
+### `01` SCHOOL MANAGEMENT SYSTEM
 
-A backend-focused school management project designed around structured data, academic management, authentication, and database integration.
+A school management system focused on structured academic data, backend functionality, database integration, and authentication.
 
-**Stack:**
-`Node.js` `Express.js` `MySQL` `JavaScript`
+**Stack**
+
+`Node.js` `Express.js` `MySQL` `SQL` `JWT`
 
 ---
 
-### 02 — WEB DEVELOPMENT
+### `02` WEB DEVELOPMENT PROJECTS
 
-A collection of projects built to explore frontend development, JavaScript, responsive interfaces, and modern web experiences.
+A collection of projects created to explore frontend development, JavaScript, responsive interfaces, and modern web experiences.
 
-**Stack:**
+**Stack**
+
 `HTML` `CSS` `JavaScript` `Tailwind CSS`
 
 ---
 
-## DEVELOPMENT PHILOSOPHY
+## `05` — WHAT I BUILD
 
-> Learn deeply.
-> Build intentionally.
-> Improve continuously.
+```text
+→ Web Applications
+→ Backend Services
+→ REST APIs
+→ Database-Driven Systems
+→ Authentication Systems
+→ Responsive Interfaces
+→ Experimental Projects
+```
+
+---
+
+## `06` — DEVELOPMENT MINDSET
+
+> **Learn deeply. Build intentionally. Improve continuously.**
+
+Every project is a chance to understand something better.
+
+Every problem is a chance to become a better developer.
 
 ---
 
-## GITHUB
+## `07` — GITHUB ACTIVITY
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=applying88-cell\&show_icons=true\&theme=transparent\&hide_border=true)](https://github.com/applying88-cell)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=applying88-cell\&show_icons=true\&theme=transparent\&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=applying88-cell\&theme=transparent\&hide_border=true)
+
+</div>
+
+---
+
+## `08` — CONNECT
+
+<div align="center">
+
+**OPEN TO LEARNING · BUILDING · COLLABORATING**
+
+[GitHub](https://github.com/applying88-cell)
+
+</div>
 
 ---
 
-## LET'S CONNECT
-
-I’m always interested in learning, building, and collaborating on meaningful projects.
-
-**GitHub:** [@applying88-cell](https://github.com/applying88-cell)
-
----
+<div align="center">
 
 ### `CODE • CREATE • EVOLVE`
+
+</div>
