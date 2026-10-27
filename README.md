@@ -1,50 +1,82 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:91C9E8,45:C8DDED,75:E8D9EB,100:F5DDE3&height=220&section=header&text=ANOLA&fontSize=65&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn" width="100%" alt="ANOLA dreamy sky banner"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3500&pause=1000&color=8BAFC5&center=true&vCenter=true&width=650&lines=somewhere+between+dreams+and+code;creating+little+things+with+big+dreams;learning%2C+growing%2C+becoming" alt="Animated introduction"/>
+<img src="./assets/banner.svg" width="100%" alt="ANOLA Cloud Banner"/>
 
 <br/>
 
-*“A quiet mind, a curious soul, and a world to create.”*
-
-☁️　🦋　☁️
-
-</div>
-
----
-
-## ୨୧   a little about me
-
-Hello, I'm **Anola** — a developer who loves turning small ideas into meaningful digital experiences.
-
-I'm exploring the world of programming one line at a time, learning how things work behind the screen, and building my own path through technology.
-
-I believe beautiful things take time, and good code is no exception.
-
----
-
-## ☁️   my little toolkit
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,mysql,git,github,vscode&theme=light" alt="Technologies I use"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=19&duration=3500&pause=1000&color=789BB5&center=true&vCenter=true&width=650&lines=somewhere+between+dreams+and+code;turning+ideas+into+beautiful+experiences;learning+%E2%80%A2+building+%E2%80%A2+growing" alt="Animated introduction"/>
 
 <br/><br/>
 
-`frontend development`　✧　`backend development`
-
-`databases`　✧　`REST APIs`　✧　`JWT authentication`
+`☁️`　`🦋`　`✦`　`🌷`　`☁️`
 
 </div>
 
 ---
 
-## 🌷   currently growing
+<div align="center">
+
+### ୨୧ about me
+
+**Hi, I'm Anola — a developer who turns ideas into clean, beautiful digital experiences.**
+
+I build with curiosity, creativity, and code. ☁️
+
+`Web Development` · `Backend` · `Databases`
+
+</div>
+
+---
+
+## ☁️ what I can build
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3000&pause=900&color=91B7D0&center=true&vCenter=true&width=550&lines=learning+something+new+every+day;building+my+skills+step+by+step;turning+curiosity+into+code" alt="Learning animation"/>
+`✦ Business Websites`　`✦ Landing Pages`
+
+`✦ Responsive Websites`　`✦ Web Applications`
+
+`✦ Admin Dashboards`　`✦ REST APIs`
+
+`✦ Database Systems`　`✦ Authentication`
+
+</div>
+
+---
+
+## 🌷 my toolkit
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nodejs,express,mysql,git,github,vscode&theme=light" alt="My technology stack"/>
+
+<br/><br/>
+
+**Frontend**
+
+`HTML` · `CSS` · `JavaScript` · `Tailwind CSS`
+
+**Backend**
+
+`Node.js` · `Express.js`
+
+**Database**
+
+`MySQL` · `SQL`
+
+**Tools**
+
+`Git` · `GitHub` · `VS Code`
+
+</div>
+
+---
+
+## 🦋 currently learning
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=3000&pause=900&color=91B7D0&center=true&vCenter=true&width=600&lines=building+REST+APIs;exploring+backend+development;learning+JWT+authentication;growing+into+full-stack+development" alt="Currently learning"/>
 
 </div>
 
@@ -60,59 +92,98 @@ const myJourney = {
     ],
 
     goal: "Become a better developer",
-    mindset: "Curiosity over perfection",
-    motto: "Little steps still move you forward."
+    mindset: "Curiosity over perfection"
 };
 ```
 
 ---
 
-## 🕊️   things I believe in
+## 🌙 my work
 
 <div align="center">
 
-✧　Learn something new every day.
+### ✦ turning ideas into something real
 
-✧　Understand before copying.
+</div>
 
-✧　Build, experiment, and improve.
+I enjoy creating projects that are **simple, useful, responsive, and visually memorable**.
 
-✧　Let mistakes become lessons.
+Each project is a chance to learn something new, experiment with technology, and become a better developer.
 
-✧　Never lose the curiosity that started it all.
+```text
+IDEA
+ ↓
+DESIGN
+ ↓
+CODE
+ ↓
+TEST
+ ↓
+IMPROVE
+ ↓
+CREATE
+```
+
+---
+
+## ☁️ developer mindset
+
+<div align="center">
+
+**Learn deeply.**
+
+**Build intentionally.**
+
+**Keep creating.**
+
+**Never stop growing.**
 
 </div>
 
 ---
 
-## 🌙   my GitHub universe
+## 📊 github activity
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=applying88-cell&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=789BB5&icon_color=A7C7E7&text_color=566573" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=applying88-cell&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=789BB5&icon_color=A7C7E7&text_color=566573" alt="GitHub Statistics"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applying88-cell&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=789BB5&text_color=566573" alt="Most used languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=applying88-cell&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=789BB5&text_color=566573" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=applying88-cell&theme=default&hide_border=true&ring=9BBFD8&fire=E8A8B8&currStreakLabel=789BB5" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com?user=applying88-cell&theme=default&hide_border=true&ring=9BBFD8&fire=E8A8B8&currStreakLabel=789BB5" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
+## 💌 let's create something
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDD7E7,50:E6D5E9,100:F7E7E1&height=140&section=footer&animation=fadeIn" width="100%" alt="Pastel cloud footer"/>
+**Have an idea?**
 
-### `dream softly · code boldly`
-
-<sub>made with curiosity, a little imagination, and lots of ☁️</sub>
+**Let's turn it into something beautiful. ☁️**
 
 <br/>
 
 <a href="https://github.com/applying88-cell">
-<img src="https://img.shields.io/badge/find_me_on-GitHub-9BBFD8?style=flat-square&logo=github&logoColor=white" alt="Find me on GitHub"/>
+
+<img src="https://img.shields.io/badge/LET'S_WORK_TOGETHER-8FB7D0?style=for-the-badge&logo=github&logoColor=white" alt="Let's work together"/>
+
 </a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BDD7E7,50:E6D5E9,100:F7E7E1&height=140&section=footer" width="100%" alt="Dreamy cloud footer"/>
+
+### `dream softly · code boldly`
+
+<sub>☁️ built with curiosity & a little imagination ☁️</sub>
 
 </div>
